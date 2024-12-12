@@ -1,6 +1,6 @@
 # gNB_GUI
 ## Descrizione
-L'applicazione **gNB Command** è un'interfaccia grafica basata su **Tkinter** per configurare e avviare una gNodeB (gNB) utilizzando lo stack **srsRAN**. Consente agli utenti di configurare i parametri della gNB tramite un'interfaccia intuitiva e di eseguire i relativi comandi in ambiente Linux.
+L'applicazione **gNB Command** è un'interfaccia grafica basata su **Tkinter** per configurare e avviare una gNodeB (gNB) utilizzando il tool **srsRAN_Project**. Consente agli utenti di configurare i parametri della gNB tramite un'interfaccia intuitiva e di eseguire i relativi comandi in ambiente Linux.
 
 ---
 
